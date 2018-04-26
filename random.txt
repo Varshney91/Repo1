@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3A68-6EE8
+
+ Directory of C:\Users\Tarun\Desktop\JavaProject1
+
+04/27/2018  12:47 AM    <DIR>          .
+04/27/2018  12:47 AM    <DIR>          ..
+04/27/2018  12:42 AM               680 Hello1.class
+04/22/2018  03:03 PM               168 Hello1.java
+04/22/2018  07:40 PM                49 index.html
+04/27/2018  12:47 AM                 0 random.txt
+04/23/2018  01:32 AM                61 readme.txt
+04/22/2018  07:40 PM                10 test1.txt
+               6 File(s)            968 bytes
+               2 Dir(s)  67,077,226,496 bytes free
